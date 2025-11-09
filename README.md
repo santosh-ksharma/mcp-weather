@@ -42,3 +42,10 @@ Analyze logs in ~/Library/Logs/Claude/mcp.log
 When you ask Claude (with this MCP server connected):
 ![Connector Toggle UI](weather_mcp_option_in_claude.png)
 
+
+### Docstring best practises:
+1. First line = One-line summary (imperative mood: "Get", "Format", "Calculate")
+2. Use present tense ("Returns the sum" not "Will return")
+3. Be specific about parameter types and expected values
+4. Include examples for complex functions
+5. Keep it updated when code changes

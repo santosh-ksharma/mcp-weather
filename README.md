@@ -21,6 +21,9 @@
 3. Gets 5-period forecast
 4. Summarizes it for you
 
+### Run the mcp server
+uv run weather.py
+
 ### Update the claude config file claude_desktop_config.json to below content
 
 {

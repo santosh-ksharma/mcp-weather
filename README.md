@@ -1,3 +1,11 @@
+# MCP Weather Server
+
+A Model Context Protocol (MCP) server that provides real-time weather data and alerts using the National Weather Service API. This server enables AI assistants like Claude to access weather forecasts and alerts for any location in the United States.
+
+<a href="https://glama.ai/mcp/servers/@santosh-ksharma/mcp-weather">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@santosh-ksharma/mcp-weather/badge" alt="Weather Server MCP server" />
+</a>
+
 ## How the LLM Uses These Tools
 
 ### Example 1: Weather Alerts

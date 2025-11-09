@@ -39,7 +39,8 @@
 
 #### Reference : https://modelcontextprotocol.io/docs/develop/build-server#python
 Analyze logs in ~/Library/Logs/Claude/mcp.log
-When you ask Claude (with this MCP server connected):
+
+### When you ask Claude (with this MCP server connected):
 ![Connector Toggle UI](weather_mcp_option_in_claude.png)
 
 
